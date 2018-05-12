@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21344#The-Young-Bridge-Tender--or-Ralph-Nelson-s-Upward-Struggle
 gutenberg_issued: '2007-05-07'
 gutenberg_type: Text
 identifiers:
